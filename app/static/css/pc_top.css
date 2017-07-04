@@ -1,0 +1,22 @@
+/*头部样式添加一定要加上top不然会污染其他的标签样式*/
+.top{
+    color: red;
+}
+.top .Topbanner{
+    width: 500px;
+    margin-top:15px; 
+    float: left;
+    overflow: hidden;
+}
+.top .Topbanner img{
+    width: 100%;
+    text-align: center;
+}
+.top .ant-carousel .slick-slide {
+  text-align: center;
+  height: 200px;
+  line-height: 200px;
+  background: #364d79;
+  color: #fff;
+  overflow: hidden;
+}

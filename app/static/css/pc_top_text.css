@@ -1,0 +1,22 @@
+.top_text_box {
+    
+    float: left;
+    margin:3px 15px; 
+    
+}
+.top_text_box ul{
+    width: 500px;
+    white-space: nowrap;
+}
+.top_text_box li{
+    padding:  2px 0;
+}
+.top_text_box ul li:first-child{
+    font-size:30px; 
+    font-weight:900; 
+}
+.top_text_box ul li a{
+    font-size: 18px; 
+    text-align: center;
+    color: black;
+}

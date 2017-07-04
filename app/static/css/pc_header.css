@@ -1,0 +1,22 @@
+.logo{
+    width: 100%;
+}
+.logo img{
+    width: 100%;
+    border-radius: 5px;
+}
+.menu{
+  margin-left: 5px;
+}
+.ant-menu-horizontal > .ant-menu-item.header-login{
+  float: right;
+}
+.header_btn{
+    margin-left: 5px;
+}
+.enter,.register{
+    margin: 0 2px;
+}
+.login_wjmm{
+    float: right;
+}
